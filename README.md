@@ -49,6 +49,6 @@ The project aims to address the following key areas:
 
 1. *Access Kaggle Notebook*:  
 To explore the analysis and visualizations, you can access the dataset and analysis directly through Kaggle Notebook.
-   [Click here to access the Kaggle Notebook project]([https://console.cloud.google.com/bigquery?sq=927474283843:73d3d045da4c41dcbd27dad359b317a0](https://www.kaggle.com/code/sravyablessineelapu/hackathon)) and explore the queries and data analysis results.
+   [Click here to access the Kaggle Notebook project](https://www.kaggle.com/code/sravyablessineelapu/hackathon) and explore the queries and data analysis results.
 
    
